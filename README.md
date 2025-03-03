@@ -10,3 +10,13 @@
 ---
 
 ##### Daftar perintah GiT
+- clone
+- branch
+- checkout
+- switch
+- status
+- add
+- commit
+- merge
+- push
+- log
